@@ -1,2 +1,2 @@
-# SocialApp
-Social Media App for Android
+# VYZIE [v2.2]
+An All New Social Media App for Android
