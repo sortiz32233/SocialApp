@@ -12,5 +12,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        AppCenter.start(getApplication(), "d81f135d-c244-4cda-aeb7-8f89df722347",
+                  Analytics.class, Crashes.class);
     }
 }
