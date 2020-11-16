@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "784545181500",
+    "firebase_url": "https://vyzie-beta.firebaseio.com",
+    "project_id": "vyzie-beta",
+    "storage_bucket": "vyzie-beta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784545181500:android:2e7d333d0ef909bfc23839",
+        "android_client_info": {
+          "package_name": "com.example.dipansh.socialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784545181500-8aqlqnd6k98jnga4af9e39v7qrttp4gm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV_RfiiL5Z6QHQZU78GVtzCUbvNkVeWP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784545181500-8aqlqnd6k98jnga4af9e39v7qrttp4gm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
